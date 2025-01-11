@@ -1,0 +1,173 @@
+
+.fira-sans-bold {
+    font-family: "Fira Sans", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+/* Nav styles */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 28.5px 160px;
+    
+    
+}
+.nav-title{
+    font-weight: bold;
+    font-size: 28px;
+}
+nav ul li{
+    list-style: none;
+}
+nav ul{
+    display: flex;
+}
+/* shared styles */
+.btn-primary{
+    color: #006A50;
+    border-radius: 4px;
+    padding: 3px 8px;
+    border-color: #006A50;
+    font-size: 18px;
+    font-family: "Fira Sans", serif;
+}
+.btn-two{
+    background-color: #006A50;
+    font-weight: 600;
+    font-size: 16px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: white;
+   
+}
+.banner-title{
+    font-size: 48px;
+    font-weight: bold;
+}
+.banner-pic{
+    height: 380px;
+    width: 400.3px;
+
+}
+.text-center{
+    text-align: left;
+}
+/* banner styles */
+.banner{
+    display: flex;
+    justify-content: space-between;
+    margin: 29px 160px;
+    background-color: #C6E4D6;
+    padding: 50px 50px;
+    border-radius: 10px;
+    
+}
+    
+.banner-content{
+    height: 100px;
+    width: 525px;
+    
+}
+/* skills shared */
+.skills-container{
+    display: flex;
+    box-shadow: none;
+   
+}
+.section-title{
+    font-size: 30px;
+    font-weight: 700;
+}
+.section-description{
+    font-size: 14px;
+}
+.skills{
+    margin: 80px 160px;
+    
+}
+.skill{
+    margin-right: 40px;
+    padding: 30px;
+ }
+.color-1{
+    background-color: #a1bdec;
+    border-radius: 10px;
+}
+.color-2{
+    background-color: #C6E4D6;
+    border-radius: 10px;
+}
+.color-3{
+    background-color: #F7EBCF;
+    border-radius: 10px;
+}
+/* button styles */
+.btn-1{
+    background-color: blue;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: none;
+}
+.btn-2{
+    background-color: green;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: none;
+}
+.btn-3{
+    background-color: orange;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: none;
+}
+.btn-4{
+    background-color: green;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: none;
+}
+body{
+    background-color: #D5D6D8;
+}
+.news-container{
+    display: flex;
+    background-color: rgb(214, 198, 198);
+    padding: 20px 20px;
+    border-radius: 10px;
+    
+}
+.news{
+    margin: 80px 160px;
+   
+
+}
+.new-1{
+    margin-left: 12px;
+}
+.pic-2{
+    border-radius: 10px;
+    height: 300px;
+    width: 400.3px;
+}
+.new-title{
+    font-size: 22px;
+    font-weight: 800;
+}
+.news-container-2{
+    display: flex;
+    background-color: rgb(214, 198, 198);
+    padding: 20px 20px;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+
+
+    
+
+
