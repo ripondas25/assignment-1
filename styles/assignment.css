@@ -188,6 +188,7 @@ body{
     display: inline;
     margin-right: 35px;
     font-size: 20px;
+    
    }
    .tk-1{
     width: 900px;
@@ -203,9 +204,37 @@ body{
     height: 40px;
     border-radius: 10px;
     font-size: 15px;
+   
     
    }
-  
+  .btn-6{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    
+  }
+  .container-5{
+    background-color: #C6E4D6;
+    margin: 80px 160px;
+    padding: 30px;
+    
+    }
+    .container-1{
+        justify-content: center;
+    }
+    .title-7{
+        text-align: center;
+        
+    }
+    .email{
+        width: 500px;
+        
+    }
+    .btn-8{
+        background-color: #006A50;
+        color: white;
+    }
+    
     
 
 
