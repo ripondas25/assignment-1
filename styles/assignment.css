@@ -124,6 +124,7 @@ nav ul{
     padding: 10px 15px;
     border-radius: 10px;
     border: none;
+
 }
 .btn-4{
     background-color: green;
@@ -167,7 +168,44 @@ body{
     margin-top: 15px;
 }
 
-
+.bd-2{
+    text-align: center;
+    font-size: 15px;
+}
+.Donate-title{
+    font-size: 20px;
+    text-align: center;
+    
+}
+.bd-3 {
+    background-color: #c4d1cb;
+    align-items: center;
+    padding: 20px 18px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.bd-5 li{
+    display: inline;
+    margin-right: 35px;
+    font-size: 20px;
+   }
+   .tk-1{
+    width: 900px;
+    text-align: center;
+    padding: 10px 20px;
+    margin: 15px 10px;
+    
+   }
+   .btn-5{
+    background-color: #006A50;
+    color: white;
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 15px;
+    
+   }
+  
     
 
 
